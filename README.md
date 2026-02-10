@@ -11,6 +11,10 @@
 
 This website will provide knowledge for beginners by first understanding the core networking and security fundamentals.
 
+[PortSwigger](https://portswigger.net)
+
+This website contains a free web security course that covers the fundamentals of offensive security attacks like SQL injection, API testing, Web LLM attacks and more....
+
 ## Invite Contributors
 
 Contributions are welcome. If you have resources, notes, or corrections, please open an issue or submit a pull request.
