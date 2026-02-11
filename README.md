@@ -15,6 +15,16 @@ This website will provide knowledge for beginners by first understanding the cor
 
 This website contains a free web security course that covers the fundamentals of offensive security attacks like SQL injection, API testing, Web LLM attacks and more....
 
+## Progress Tracking
+
+[Roadmap](https://roadmap.sh)
+
+This website provides aclear roadmap for each career in tech ranging from full stack developer to cybersecurity in this case.
+
+I really love the feature where you can import it to Google or Outlook Calendar. So this ensures that you have a clear schedule for each day.
+
+Yes, consistency is very vital.
+
 ## Invite Contributors
 
 Contributions are welcome. If you have resources, notes, or corrections, please open an issue or submit a pull request.
