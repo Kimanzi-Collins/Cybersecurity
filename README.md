@@ -25,6 +25,12 @@ I really love the feature where you can import it to Google or Outlook Calendar.
 
 Yes, consistency is very vital.
 
+## Certification
+
+[Cisco Intro to CyberSecurity](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US)
+
+This is one of the free certifications I found. This will be useful when trying to get past HR. But main thing about succeeeding in cybersecurity is practical hands-on.
+
 ## Invite Contributors
 
 Contributions are welcome. If you have resources, notes, or corrections, please open an issue or submit a pull request.
