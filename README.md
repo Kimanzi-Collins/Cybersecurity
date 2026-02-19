@@ -31,6 +31,16 @@ Yes, consistency is very vital.
 
 This is one of the free certifications I found. This will be useful when trying to get past HR. But main thing about succeeeding in cybersecurity is practical hands-on.
 
+## Cybersecurity Community
+
+[Owlsec Discord](https://discord.com/invite/owlsec)
+
+This is one of, if not, the largest cybersec community on the Internet. You can interact with other individuals ranging to experts in the field. You can gain access to competitions and win prize money once you become really good.
+
+[Sanjay's Cyber Squad](https://www.linkedin.com/in/sanjay70023/)
+
+I stumbled upon a LinkedIn post of this guy. Honestly, it was like I stumbled upon a gold mine. He has a Whatsapp Channel where he posts areas to imrpove on especially when it comes to ethical hacking.
+
 ## Invite Contributors
 
 Contributions are welcome. If you have resources, notes, or corrections, please open an issue or submit a pull request.
