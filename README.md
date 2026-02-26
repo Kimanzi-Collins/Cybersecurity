@@ -41,6 +41,16 @@ This is one of, if not, the largest cybersec community on the Internet. You can 
 
 I stumbled upon a LinkedIn post of this guy. Honestly, it was like I stumbled upon a gold mine. He has a Whatsapp Channel where he posts areas to imrpove on especially when it comes to ethical hacking.
 
+## General Knowledge (Online Resources)
+
+[The Network Chuck](www.youtube.com/@NetworkChuck)
+
+Really one place with the one of the best cybersecurity education. Like this will keep you informed on current trends.
+
+[Veritasium](https://www.youtube.com/@veritasium)
+
+This resource has been of help in explaining different vulnerabilities that have occurred in history. Learning from actual attacks or vulnerabilities that would have happened is truly enlightning. They go deep into details from how an attack was orchestrated and stuff.
+
 ## Invite Contributors
 
 Contributions are welcome. If you have resources, notes, or corrections, please open an issue or submit a pull request.
