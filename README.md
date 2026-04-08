@@ -2,6 +2,45 @@
 
 ![Cybersecurity](https://images.unsplash.com/photo-1544890225-2f3faec4cd60?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Progress Tracking](#progress-tracking)
+- [Certification](#certification)
+- [Cybersecurity Community](#cybersecurity-community)
+- [General Knowledge (Online Resources)](#general-knowledge-online-resources)
+- [Learning Notes in This Repo](#learning-notes-in-this-repo)
+- [Invite Contributors](#invite-contributors)
+- [Conclusion](#conclusion)
+- [More Links](#more-links)
+- [Personal Notes](#personal-notes)
+
+## Learning Notes in This Repo
+
+### Ethical Hacking
+
+- [Overview](Ethical%20Hacking/Overview.md)
+
+### Linux
+
+- [Linux Resources](Linux/7.%20Linux%20Resources.md)
+- [Basic Linux Commands](Linux/8.%20Basic%20Linux%20Commands.md)
+
+### Path: Defensive Security
+
+- [Day 2 Notes](Path/Defensive%20Security/2.%20Day2.md)
+
+### Path: Networking
+
+- [Networking Fundamentals](Path/Networking/3.%20Networking%20Fundamentals.md)
+- [DNS](Path/Networking/4.%20DNS.md)
+- [HTTPS In Detail](Path/Networking/5.%20HTTPS%20In%20Detail.md)
+- [HTML Injection](Path/Networking/6.%20HTML%20Injection.md)
+
+### Path: Offensive Security
+
+- [Course 1 Notes](Path/Offensive%20Security/1.%20Course1.md)
+
 - This is a sample roadmap I personally used to gain knowledge in cybersecurity from beginner to slightly advanced.
 - I'll ensure to post all the necessary materials I used to grow in Cybersecutiy.
 
